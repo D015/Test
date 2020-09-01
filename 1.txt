@@ -2,3 +2,4 @@ Hello World
 Hello Git
 Hello Git clone
 Изменение 1 в ветке testing
+Меняю стр 5 в master
